@@ -149,7 +149,7 @@ body.error-active .error__overlay {
   position: relative;
 }
 .logo {
-  font-size: 2rem;
+  font-size: 1.6rem;
   font-family: var(--title-font);
 }
 
@@ -178,7 +178,7 @@ body.error-active .error__overlay {
 .btn {
   color: var(--sub-text-color);
   cursor: pointer;
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   margin: 0 auto;
   position: relative;
   text-decoration: none;
